@@ -3,9 +3,10 @@ print(' Python Program Written by: Aron Paul Gonzales')
 
 cont = "y"
 while cont=="y":
+	print('\n')
 
 	# This area is for taking input from the user
-	stu_name = input ("\n Enter the Student's name: ")
+	stu_name = input (" Enter the Student's name: ")
 	mod1 = float(input("\n Enter the Student's Grade in Module 1: "))
 	mod2 = float(input(" Enter the Student's Grade in Module 2: "))
 	mod3 = float(input(" Enter the Student's Grade in Module 3: "))
@@ -58,8 +59,9 @@ while cont=="y":
 	print('\n Insert "y" key to continue'),print(' or...')
 	cont = input(' Insert "n" key to End Program: ')
 
+
 	if cont=="n":
-		print('--------------------------------------------------')
+		print('\n - Program Ended - \n')
 		break
 
 	else:
@@ -68,6 +70,6 @@ while cont=="y":
 			cont = input(' Insert "n" key to End Program: ')
 
 			if cont=="n":
-				print('--------------------------------------------------')
+				print('\n - Program Ended - \n')
 				break
 	
