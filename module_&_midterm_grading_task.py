@@ -1,6 +1,4 @@
 
-print(' Python Program Written by: Aron Paul Gonzales')
-
 cont = "y"
 while cont=="y":
 	print('\n')
@@ -72,4 +70,8 @@ while cont=="y":
 			if cont=="n":
 				print('\n - Program Ended - \n')
 				break
-	
+				
+				
+				
+
+# Written by: Aron Paul Gonzales	
