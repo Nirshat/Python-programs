@@ -65,7 +65,7 @@ while cont=="y":
 		break
 
 	else:
-		while cont!="y":
+		while cont!="y" and cont!="n":
 			print('\n Insert "y" key to continue'),print(' or...')
 			cont = input(' Insert "n" key to End Program: ')
 
