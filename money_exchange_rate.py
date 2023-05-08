@@ -1,3 +1,8 @@
+# Program Written by: Aron Paul Gonzales
+
+# Note: make sure the colorama module is already downloaded in your terminal
+
+
 import colorama
 from colorama import Fore, Style
 colorama.init(autoreset=True)
