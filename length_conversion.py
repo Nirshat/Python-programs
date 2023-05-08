@@ -4,12 +4,13 @@ colorama.init(autoreset= True)
 
 
 # LENGTH CONVERSION
+# Program Written by: Aron Paul Gonzales
 
 
 # Formula:  
 # smaller length ÷ higher length
 # higher length × smaller length
-# Note: If you are converting a length with higher length ( length1 ÷ length2 )
+# Note: If you are converting a length with higher length, formula is ( length1 ÷ length2 )
 
 
 # Meter/s
@@ -329,9 +330,6 @@ while con == "":
 
 	# Note: if your IDE has not colorama module installed...
 	# 👇️ for python 3 (could also be pip3.10 depending on your version)
-  # type 'pip3 install colorama' in your terminal
-
-
-
+	# type 'pip3 install colorama' in your terminal
 
 	# Program Written by: Aron Paul Gonzales
